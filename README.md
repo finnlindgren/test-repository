@@ -6,5 +6,4 @@ Test repository for ISBA reproducible computing course
 
 * Also bullets
 
-Subheader
----
+## Subheader
