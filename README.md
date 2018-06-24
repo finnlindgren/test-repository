@@ -7,3 +7,5 @@ Test repository for ISBA reproducible computing course
 * Also bullets
 
 ## Subheader
+
+This is a demo repository for the reproducible Computing workship at ISBA 2018. 
